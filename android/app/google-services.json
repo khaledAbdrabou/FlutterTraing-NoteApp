@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902858793840",
+    "project_id": "noteit-project-khaled",
+    "storage_bucket": "noteit-project-khaled.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902858793840:android:1f26eb25e55bcb1b5a65b5",
+        "android_client_info": {
+          "package_name": "com.khaledabdrabou.noteit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902858793840-vgaihv1st569p1je330368e71dqjh3u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGlV47scBXXUDcMe7TSTBAxiWKn_jThA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902858793840-vgaihv1st569p1je330368e71dqjh3u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
